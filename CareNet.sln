@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareNet", "CareNet\CareNet.csproj", "{886FA4F2-2ADA-4E2B-BD2C-15A20793E618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareNet.Tests", "CareNet.Tests\CareNet.Tests.csproj", "{4D74BF4B-92D8-4452-84C6-5790E7AED0D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886FA4F2-2ADA-4E2B-BD2C-15A20793E618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886FA4F2-2ADA-4E2B-BD2C-15A20793E618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886FA4F2-2ADA-4E2B-BD2C-15A20793E618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886FA4F2-2ADA-4E2B-BD2C-15A20793E618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D74BF4B-92D8-4452-84C6-5790E7AED0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D74BF4B-92D8-4452-84C6-5790E7AED0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D74BF4B-92D8-4452-84C6-5790E7AED0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D74BF4B-92D8-4452-84C6-5790E7AED0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
